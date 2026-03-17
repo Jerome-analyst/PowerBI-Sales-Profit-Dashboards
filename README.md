@@ -12,7 +12,7 @@ The dashboard includes multiple visualizations such as KPI indicators, geographi
 # Dashboard Preview
 
 <p align="center">
-  <img src="https://github.com/Jerome-analyst/PowerBI-Sales-Profit-Dashboards/blob/main/Profit%20and%20sales%20dashboard.png" width="700">
+  <img src="https://github.com/Jerome-analyst/PowerBI-Sales-Profit-Dashboards/blob/main/Dashboard1.png" width="700">
 </p>
 
 ---
